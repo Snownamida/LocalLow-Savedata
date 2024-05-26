@@ -1,0 +1,582 @@
+Initialize engine version: 2017.4.27f1 (0c4b856e4c6e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   NVIDIA
+    VRAM:     5968 MB
+    Driver:   31.0.15.3758
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.179 seconds
+OnLevelWasLoaded was found on PlayMakerFSM
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.455600 ms
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Sound engine initialized.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: SlotA.options
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: SlotB.options
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: SlotC.options
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading data opt-out preferences from PlayerPrefs
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Requesting data opt-out preferences from https://data-optout-service.uca.cloud.unity3d.com/player/opt_out?appid=ad235566-efc1-443f-8222-928b1bca9f43&userid=166db1eebef089b408ddf14e95249735&deviceid=0b1d7b8282d2e6a2e8d792515c89b5ee4322856b
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to load data opt-opt status from https://data-optout-service.uca.cloud.unity3d.com/player/opt_out?appid=ad235566-efc1-443f-8222-928b1bca9f43&userid=166db1eebef089b408ddf14e95249735&deviceid=0b1d7b8282d2e6a2e8d792515c89b5ee4322856b: Cannot resolve destination host
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+async loading bank id: 393239870
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'fiBackupSceneStorage') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 3.304700 ms
+Version: 2.1.9
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Now: 05.02.2024 19:47
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting GOG Galaxy platform interface.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\XInputInterface32
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/XInputInterface32
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libXInputInterface32
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\libXInputInterface32
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libXInputInterface32
+InControl (version 1.6.17 build 9143)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: SlotA.save
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Post GameManager.Awake.AudioInit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Post GameManager.Awake.Resolution
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Terminating GameManager Awake()
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: ActiveA.game
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No mid game save found
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::DeviceType = Desktop
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceType = NVIDIA GeForce RTX 2060
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceType = Direct3D11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceVendor = NVIDIA
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceVersion = Direct3D 11.0 [level 11.1]
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsShaderLevel = 50
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsMemorySize = 5968
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::MaxTextureSize = 16384
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::NPOTSupport = Full
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportedRenderTargetCount = 8
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsImageEffects = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsRenderTextures = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsStencil = 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsDefaultHDR = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsDepthFormat = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::Iteration = 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18574.
+Total: 129.710400 ms (FindLiveObjects: 1.485200 ms CreateObjectMapping: 1.820800 ms MarkObjects: 126.335700 ms  DeleteObjects: 0.067800 ms)
+
+Doing startup foyer checks!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to generate flow: Foyer Flow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ENCOUNTERING FLOW: Foyer Flow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Succeeded generation iteration on: Foyer Flow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Right(Clone) : Gungeon Guardian Right FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Right(Clone) : Animation Handler
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Left(Clone) : Gungeon Guardian Left FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Left(Clone) : Animation Handler
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Convict(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Rogue(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Marine(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Guide(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Robot(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Bullet(Clone) : Bullet Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Cultist(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Eevee(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Gunslinger(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_MetaShopkeeper : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Witchkeeper : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 11)
+Adding a new GameManager audio listener
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Galaxy.Api.GalaxyInstance+RuntimeError: Could not start GalaxyService
+  at Galaxy.Api.GalaxyInstance.Init (System.String clientID, System.String clientSecret) [0x00000] in <filename unknown>:0 
+  at GalaxyManager.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GalaxyManager failed to start; attempting shut down.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library C:/GOG Games/Enter the Gungeon/EtG_Data/Mono/libLightFX
+
+Unloading 229 unused Assets to reduce memory usage. Loaded Objects now: 43046.
+Total: 192.163300 ms (FindLiveObjects: 2.822600 ms CreateObjectMapping: 4.925500 ms MarkObjects: 183.685900 ms  DeleteObjects: 0.728600 ms)
+
+Something is attempting to get a NONE save flag!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INSTANTIATING AMMONOMICON ???
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: ActiveA.game
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No mid game save found
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joystick connected ("Wireless Gamepad").
+ 
+(Filename:  Line: 1351)
+
+Change in attached Unity joysticks detected; refreshing device list.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[InControl] Joystick 1: "Wireless Gamepad"
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Device 1 with name "Wireless Gamepad" does not match any supported profiles and will be considered an unknown controller.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reassigning all controllers.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joystick disconnected ("Wireless Gamepad").
+ 
+(Filename:  Line: 714)
+
+Change in attached Unity joysticks detected; refreshing device list.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reassigning all controllers.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Joystick connected ("Wireless Controller").
+ 
+(Filename:  Line: 1351)
+
+Change in attached Unity joysticks detected; refreshing device list.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Device 2 matched profile PlayStation4WinProfile (PlayStation 4 Controller)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reassigning all controllers.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 90d0 -> priority: 1 
+  Thread -> id: 9574 -> priority: 1 
+  Thread -> id: 961c -> priority: 1 
+  Thread -> id: a40 -> priority: 1 
+SAVING DATA
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
